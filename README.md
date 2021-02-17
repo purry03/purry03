@@ -2,6 +2,9 @@
 
 I'm a computer science student who is passionate about web development ,the cloud and video games. All I need to make a project is one night and a Spotify playlist.
 
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=purry03&hide=contribs&count_private=true&theme=tokyonight"></a>
+
+
 #### My skills
 
 ><a href="#"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
