@@ -29,10 +29,6 @@ I'm a computer science student who is passionate about web development ,the clou
 <a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
 
-#### Interested in learning
-
-><a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-
 #### My social links
 
 ><a href="https://www.linkedin.com/in/rohan-sharma-5b77bb1b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
