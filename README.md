@@ -1,10 +1,5 @@
-<p align="center">
-	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-</p>
-<p align="center"><b>We didn't receive a proper request from your browser.</b></p>
-<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
-<p align="center">
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
-</p>
+**`DONATIONS:`** if you've found my software useful and would like to donate, then first of all: **Thank you!**
+
+but please note I will not be able to offer anything in return; no support of any kind, not even prioritized features/bugfixes. I'm doing this just for fun, and don't want to make it a responsibility. And like the license says, you're still using it entirely on your own risk :-)
+
+currently the option is [patreon]([https://ko-fi.com/ed9001](https://www.patreon.com/c/perseus1715))-- let me know if you have better ideas,
